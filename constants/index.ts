@@ -26,3 +26,41 @@ export const navLinks = [
     icon: CircleUser,
   },
 ];
+
+export const topicSelections = [
+  {
+    value: "Custom Prompt",
+    label: "Custom Prompt",
+  },
+  {
+    value: "Random AI Story",
+    label: "Random AI Story",
+  },
+  {
+    value: "Scary Story",
+    label: "Scary Story",
+  },
+  {
+    value: "Historical Facts",
+    label: "Historical Facts",
+  },
+  {
+    value: "Bed Time Story",
+    label: "Bed Time Story",
+  },
+  {
+    value: "Motivational",
+    label: "Motivational",
+  },
+  {
+    value: "Fun Facts",
+    label: "Fun Facts",
+  },
+];
+
+export const styleSelections = [
+  {
+    name: "Realistic",
+    image: "/realistic.png",
+  },
+];
